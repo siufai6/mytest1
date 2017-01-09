@@ -1,6 +1,6 @@
 import grequests  
 
-# duummyy testing
+# dummy changes added
 
 urls =["http://nominatim.openstreetmap.org/?format=json&q=[bakery]+berlin+wedding&format=json&limit=1",
 "http://nominatim.openstreetmap.org/?format=json&q=15+Wong+Nei+Chung+Road+Happy+Valley&format=json&limit=1",
